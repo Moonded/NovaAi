@@ -1,0 +1,66 @@
+[
+  {
+    "label": "Comm Array",
+    "value": "comm_array"
+  },
+  {
+    "label": "Space Staion",
+    "value": "space_station"
+  },
+  {
+    "label": "Major Landing Zone",
+    "value": "major_landing_zone"
+  },
+  {
+    "label": "Small Oujtpost (No Pads)",
+    "value": "small_outpost_no_pads"
+  },
+  {
+    "label": "Large Outpost (Has Pads)",
+    "value": "large_outpost_has_pads"
+  },
+  {
+    "label": "Aid Shelter",
+    "value": "aid_shelter"
+  },
+  {
+    "label": "Scrapyard",
+    "value": "scrapyard"
+  },
+  {
+    "label": "Bunker/Underground Facility",
+    "value": "bunker_underground_facility"
+  },
+  {
+    "label": "Cave (Ship Only)",
+    "value": "cave_ship_only"
+  },
+  {
+    "label": "Cave (Foot Only)",
+    "value": "cave_foot_only"
+  },
+  {
+    "label": "Cave (Foot/Vehicle)",
+    "value": "cave_foot_vehicle"
+  },
+  {
+    "label": "Cave (Foot/Vehicle/Ship)",
+    "value": "cave_foot_vehicle_ship"
+  },
+  {
+    "label": "Wreck/Crash Site",
+    "value": "wreck_crash_site"
+  },
+  {
+    "label": "Landmark/Other",
+    "value": "landmark_other"
+  },
+  {
+    "label": "Derelict Outpost",
+    "value": "derelict_outpost"
+  },
+  {
+    "label": "Event Location",
+    "value": "event_location"
+  }
+]

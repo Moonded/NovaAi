@@ -1,0 +1,21 @@
+{
+	"dependencies": {
+		"discord-api-types": "^0.37.30",
+		"discord.js": "^14.7.2-dev.1672229059-3160ab0.0",
+		"dotenv": "^16.0.3",
+		"node-fetch": "2"
+	},
+	"scripts": {
+		"dev": "nodemon -q main",
+		"deploy": "node deploy"
+	},
+	"nodemonConfig": {
+		"ignore": [
+			"**/db/**",
+			"**/docs/**"
+		]
+	},
+	"devDependencies": {
+		"prisma": "^4.8.0"
+	}
+}

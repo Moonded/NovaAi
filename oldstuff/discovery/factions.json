@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hurston Security",
+    "friendly": true
+  },
+  {
+    "name": "Crusader Security",
+    "friendly": true
+  },
+  {
+    "name": "Blacjac Security (ArcCorp)",
+    "friendly": true
+  },
+  {
+    "nam": "MT Protection Services (ArcCorp)",
+    "friendly": true
+  },
+  {
+    "name": "UEE Navy",
+    "friendly": true
+  },
+  {
+    "name": "Nine Tails",
+    "friendly": false
+  },
+  {
+    "name": "Ex Malo Bonum",
+    "friendly": false
+  }
+]

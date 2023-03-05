@@ -1,0 +1,18 @@
+{
+  "comm_array": "Comm Array",
+  "space_station": "Space Staion",
+  "major_landing_zone": "Major Landing Zone",
+  "small_outpost_no_pads": "Small Oujtpost (No Pads)",
+  "large_outpost_has_pads": "Large Outpost (Has Pads)",
+  "aid_shelter": "Aid Shelter",
+  "scrapyard": "Scrapyard",
+  "bunker_underground_facility": "Bunker/Underground Facility",
+  "cave_ship_only": "Cave (Ship Only)",
+  "cave_foot_only": "Cave (Foot Only)",
+  "cave_foot_vehicle": "Cave (Foot/Vehicle)",
+  "cave_foot_vehicle_ship": "Cave (Foot/Vehicle/Ship)",
+  "wreck_crash_site": "Wreck/Crash Site",
+  "landmark_other": "Landmark/Other",
+  "derelict_outpost": "Derelict Outpost",
+  "event_location": "Event Location"
+}
