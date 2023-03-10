@@ -7,20 +7,6 @@ global.client = new Client({
 	intents: [69631],
 	presence: {
 		status: 'online',
-		activities: [
-			{
-				name: 'hygiene of the school and the students.',
-				type: 3,
-			},
-			{
-				name: 'corridors for students out of bed.',
-				type: 3,
-			},
-			{
-				name: 'Handing out corporal punishment.',
-				type: 4,
-			},
-		],
 	},
 });
 
